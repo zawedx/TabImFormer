@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/366729051/c7bc9f02-a8fb-4527-b311-e308fce79182?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241029%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241029T151453Z&X-Amz-Expires=300&X-Amz-Signature=353778ad7863769fc1baf2560369c66139da9d08f2b1a6159e8455a8c82d2760&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmodel_swinvit.pt&response-content-type=application%2Foctet-stream
